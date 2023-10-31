@@ -1,0 +1,19 @@
+{
+    "host": "127.0.1.0",
+    "port": 69,
+    "NUMERO_JUGADORES": 4,
+    "id_1": "morochita",
+    "id_2": "chocolate",
+    "id_3": "nantino",
+    "id_4": "amongas",
+    "id_5": "Sample text",
+    "id_6": "Ayuda",
+    "id_7": "Pan con ketchup",
+    "id_8": "Xx_gormit_xX",
+    "N": 2,
+    "NUMERO_VIDAS": 2,
+    "VALOR_PASO": 7,
+    "PROB_DUDAR": 0.5,
+    "PROB_ANUNCIAR": 0.6
+
+}

@@ -1,0 +1,15 @@
+{
+    "host": "127.0.1.0",
+    "N": 2,
+    "RUTA_FONDO_INICIO": ["cliente", "Sprites", "background", "background_inicio.png"],
+    "RUTA_FONDO_JUEGO" : ["cliente", "Sprites", "background", "background_juego.png"],
+
+    "RUTA_DICE_1": ["cliente", "Sprites", "dices", "dice_1.png"],
+    "RUTA_DICE_2": ["cliente", "Sprites", "dices", "dice_2.png"],
+    "RUTA_DICE_3": ["cliente", "Sprites", "dices", "dice_3.png"],
+    "RUTA_DICE_4": ["cliente", "Sprites", "dices", "dice_4.png"],
+    "RUTA_DICE_5": ["cliente", "Sprites", "dices", "dice_5.png"],
+    "RUTA_DICE_6": ["cliente", "Sprites", "dices", "dice_6.png"],
+
+    "RUTA_USER": ["cliente", "Sprites", "extra", "user_profile.png"]
+}
